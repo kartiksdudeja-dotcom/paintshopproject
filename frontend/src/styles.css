@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(145deg, #eaf8ef 0%, #e3f6ea 40%, #f7fff9 100%);
+  min-height: 100vh;
+  font-family: "Inter", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+.MuiPaper-root {
+  border-radius: 12px;
+}
